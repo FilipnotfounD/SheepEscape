@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\SheepApp\SheepApp\bin\Debug\net8.0\SheepApp.exe
+C:\Users\filip\source\repos\SheepApp\SheepApp\bin\Debug\net8.0\Data.txt
+C:\Users\filip\source\repos\SheepApp\SheepApp\bin\Debug\net8.0\SheepApp.deps.json
+C:\Users\filip\source\repos\SheepApp\SheepApp\bin\Debug\net8.0\SheepApp.runtimeconfig.json
+C:\Users\filip\source\repos\SheepApp\SheepApp\bin\Debug\net8.0\SheepApp.dll
+C:\Users\filip\source\repos\SheepApp\SheepApp\bin\Debug\net8.0\SheepApp.pdb
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.AssemblyInfo.cs
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.sourcelink.json
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.dll
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\refint\SheepApp.dll
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.pdb
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\SheepApp.genruntimeconfig.cache
+C:\Users\filip\source\repos\SheepApp\SheepApp\obj\Debug\net8.0\ref\SheepApp.dll
