@@ -66,11 +66,11 @@ public class SheepEscape
             informations[i] = new()
             {
                 Segments = i + 1,
-                A = int.Parse(split[0]), //Hodnota pro A
-                B = int.Parse(split[1]), //Hodnota pro B
-                C = int.Parse(split[2]), //Hodnota pro C
-                D = int.Parse(split[3]), //Hodnota pro D
-                E = int.Parse(split[4])  //Hodnota pro E
+                A = SafelyConvertToInt(split[0]), //Hodnota pro A
+                B = SafelyConvertToInt(split[1]), //Hodnota pro B
+                C = SafelyConvertToInt(split[2]), //Hodnota pro C
+                D = SafelyConvertToInt(split[3]), //Hodnota pro D
+                E = SafelyConvertToInt(split[4])  //Hodnota pro E
             };
         }
         return informations;
